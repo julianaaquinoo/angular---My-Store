@@ -18,7 +18,8 @@ import { ProductListComponent } from './product-list/product-list.component';
   declarations: [
     AppComponent,
     TopBarComponent,
-    ProductListComponent
+    ProductListComponent,
+    ProductAlertsComponent,
   ],
   bootstrap: [
     AppComponent
